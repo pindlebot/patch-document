@@ -1,0 +1,9 @@
+{
+  "name": "index.html",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "posthtml": "^0.11.3"
+  }
+}
